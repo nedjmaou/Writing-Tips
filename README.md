@@ -1,4 +1,5 @@
 # On Academic Writing in the Age of LLMs
+by _Nedjma Ousidhoum_
 
 Although there are plenty of articles offering advice on how to write good research papers (many of them better than anything I could write), I wanted to add my perspective as: i) someone who genuinely enjoys reading and writing papers and believes in their collective contribution to scientific progress; ii) a supervisor and educator; iii) a reviewer; and iv) a (senior) area chair who tries to make informed acceptance and rejection decisions.
 
