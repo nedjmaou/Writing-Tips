@@ -8,7 +8,7 @@ One might think that LLMs and other AI tools have made academic writing easier, 
 
 I increasingly feel that academic narratives are becoming flattened, and that we are starting to see the same patterns, expressions and, occasionally, the same slop repeated over and over. Before sharing any advice, I want to acknowledge that writing is hard work (not a "soft" skill, whatever that means) and can be [very] frustrating and boring. However, I see our over-reliance on LLMs and AI tools as somewhat similar to the way societies have built cities around cars rather than people and nature, only to spend decades trying to convince people to cycle and walk more, go to the gym to prevent muscle atrophy, and take supplements. We should be careful not to make the same mistake with writing (and thinking). We need to recognise the threats early on, before we risk losing the patience and satisfaction that come from writing something from scratch.
 
-## Advice to Newcomers
+## Advice to Newcomers (to NLP _and Adjacent Fields_)
 
 ### 1. Before writing, a note about reading: read full papers.
 
