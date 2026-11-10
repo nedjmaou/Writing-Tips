@@ -15,7 +15,7 @@ I increasingly feel that academic narratives are becoming flattened, and that we
 
 Getting better at writing takes practice and lots of reading. If you are a beginner, do not rely on summaries; read papers in their entirety. Reading full papers is valuable, and you do not need to understand everything to benefit from the experience. You gradually develop a taste for both research and good writing, pick up useful practices without necessarily realising it, and learn how other researchers build an argument. Reading more generally also helps you become a better scientist.
 
-Overclaims and bad writing have always existed, but their sheer volume makes them all the more noticeable. Learning to recognise overclaims is also part of learning to read critically and, ultimately, to write responsibly.
+Overclaims and bad writing have always existed, but their sheer volume makes them more noticeable. Learning to recognise overclaims is also part of learning to read critically and, ultimately, to write responsibly.
 
 ### 2. Start with a bad draft, and start early.
 
@@ -23,7 +23,7 @@ We all write bad first drafts. (I write terrible first drafts.)
 
 Start writing early! Start with your notes, even if they do not connect, and try to build an argument out of them. Move things around, identify gaps, and gradually develop a clear narrative (I will discuss some tips below).
 
-There is value in struggling with your own ideas and figuring out how to connect them. Do not outsource that process before you have had a chance to develop it yourself. My suggestion is to try doing this without an LLM first, even if you eventually use one for feedback, editing, or grammar checks.
+There is value in struggling with your own ideas and figuring out how to connect them. Do not outsource that process before you have had a chance to develop it yourself. Try doing this without an LLM first, even if you eventually use one for feedback, editing, or grammar checks.
 
 ### 3. Say what your paper is about, not what it is **not** about.
 
@@ -37,11 +37,11 @@ Developing this skill takes practice, and it is harder than it sounds. It is per
 
 Students I supervise may be tired of hearing my metaphor about **starting with a bird's-eye view and then gradually zooming in**. I also keep telling them that _"your conclusion is your introduction, but written for someone who has now read your paper"_. In other words, you can use terminology you have already introduced, refer to specific findings, and assume readers have followed your argument (as my MSc supervisor used to tell me). I have not come up with a better metaphor yet!
 
-You do not need to have everything figured when building your paper or dissertation. A useful exercise is to start with a set of questions: **Why** does the problem you are addressing matter? **What** exactly are you trying to address? **How** are you addressing it?_(What do we already know? What don't we know? What are you trying to establish, and why should anyone care? What is the central message you want readers to take away?)_
+You do not need to have everything figured out when building your paper or dissertation. A useful exercise is to start with a set of questions: **Why** does the problem you are addressing matter? **What** exactly are you trying to address? **How** are you addressing it?_(What do we already know? What don't we know? What are you trying to establish, and why should anyone care? What is the central message you want readers to take away?)_
 
-These questions can help you find the storyline before worrying too much about the actual prose. You will likely start with a set of disconnected sections. Take the time to connect them little by little so that you give readers the bigger picture first and then progressively narrow the focus (see below).
+These questions can help you find the storyline before worrying about the actual prose. You will likely start with a set of disconnected sections. Take the time to connect them little by little so that you give readers the bigger picture first and then progressively narrow the focus (see below).
 
-### 5. More on coherence: Writing an introduction is hard, and developing a storyline is very hard.
+### 5. More on coherence: writing an introduction is hard, and developing a storyline is very hard.
 
 The introduction should take readers from the broader problem to the specific questions and contributions of your paper. The conclusion should take them back out again, connecting your findings to the bigger picture. The paper should ultimately tell a coherent story.
 
@@ -51,7 +51,7 @@ Sometimes there is that little something missing, but you cannot quite put your 
 
 There is nothing wrong with straightforward language! In fact, it is often much more enjoyable to read.
 
-Write short, simple sentences and do not aim for "sophistication". It is perfectly fine to use "use" rather than "employ". You don't need to replace every familiar word with a supposedly fancier alternative. Repetition is not necessarily bad writing: sometimes using the same word is precisely what makes your writing clearer. In other words, do not sacrifice precision just to demonstrate your vocabulary; readers should not need a dictionary to understand NLP/ML papers. :-)
+Write short, simple sentences and do not aim for "sophistication". It is perfectly fine to use "use" rather than "employ". You don't need to replace every familiar word with a supposedly fancier alternative. Repetition is not necessarily bad writing: sometimes using the same word is precisely what makes your writing clearer. In other words, do not sacrifice precision just to demonstrate your vocabulary; readers should not need a dictionary to understand an NLP/ML paper. :-)
 
 Also, although this is partly a matter of taste, I think you should own your contribution. Your paper or project does not "analyse", "investigate", or "present" something by itself. **You** did the work. You can say what "we" or "I" analyse, investigate, or present in the paper. There is nothing wrong with that.
 
@@ -61,9 +61,9 @@ This is perhaps what others and I find increasingly concerning: empty content.
 
 Good scientific writing is about meaningful communication. You can have perfectly grammatical sentences, rich vocabulary, and beautifully connected paragraphs that ultimately say very little (or nothing).
 
-Every sentence should contribute something to the overall argument, and every paragraph should have a purpose. If you find yourself reading a paragraph and struggling to identify what it actually tells the reader, that might be a sign that you need to remove it or rethink it.
+Every sentence should contribute to the overall argument, and every paragraph should have a purpose. If you find yourself reading a paragraph and struggling to identify what it actually tells the reader, that might be a sign that you need to remove it or rethink it.
 
-Writing is also about knowing what to remove. Sometimes the best edit is deleting a sentence, a paragraph, or even an entire section. Not everything you worked hard to write deserves to remain in the final paper. Do not feel bad about removing content; it served its purpose by helping you think and get to a better version of the paper.
+Writing is also about knowing what to remove. Sometimes the best edit is deleting a sentence, a paragraph, or even an entire section. Not everything you worked hard to write deserves to remain in the final paper. Do not feel bad about removing content; it served its purpose by helping you think and get a better version of the paper.
 
 ### 8. Analysis is more than putting numbers and figures into words.
 
@@ -75,21 +75,21 @@ Note that you do not always need to have an explanation for every unexpected obs
 
 ### 9. Back up your claims with evidence, no matter how convinced you are.
 
-This might sound obvious, but it is worth emphasising in the age of multidisciplinary research: always provide evidence to support your claims, no matter how convinced you are of your position. Make sure your references actually support the claims you are making, and that you are drawing on relevant evidence rather than simply citing work because it is widely cited in the area. This becomes particularly important when making claims about topics that extend beyond your direct area of expertise, or when you hope your work will have an impact on other fields or communities. Be careful not to assume that your technical findings automatically translate into broader societal benefits, or that you fully understand the needs, priorities, and challenges of people working in other domains.
+This might sound obvious, but it is worth emphasising in the age of multidisciplinary research: always provide evidence to support your claims, no matter how convinced you are of your position. Make sure your references support the claims you are making, and that you are drawing on relevant evidence rather than merely citing work because it is widely cited in the area. This becomes particularly important when making claims about topics that extend beyond your direct area of expertise, or when you hope your work will have an impact on other fields or communities. Be careful not to assume that your technical findings automatically translate into broader societal benefits, or that you fully understand the needs, priorities, and challenges of people working in other domains.
 
 If you want to make claims beyond your immediate technical contribution, engage with the relevant literature and, where appropriate, with people who have expertise in those areas. Explain the reasoning and mechanisms connecting your contribution to the outcomes you anticipate, and be honest about what you have and have not established, even when you feel strongly about the topic and genuinely wish to contribute. You can discuss potential implications and broader ambitions, but distinguish them from demonstrated findings.
 
 ## Finally …
 
-None of this is meant to suggest that there is only one way to write a good paper. We all still make mistakes! These are simply some of the things I have learned, some of the mistakes I have made, and some of the things I keep noticing when reading and reviewing papers.
+None of this is meant to suggest that there is only one way to write a good paper. We all still make mistakes! These are simply some of what I have learned, some of the mistakes I have made, and some of the patterns I keep noticing when reading and reviewing papers.
 
 Writing is a skill, and like any other skill, it requires practice, reading, feedback, and a fair amount of patience. But it is also rewarding: it helps you clarify your ideas, figure out what you actually want to say, learn how to construct an argument, and communicate it effectively.
 
-Develop your own message and voice first, and then, if needed, use LLMs to assist you, not to replace you.
+Develop your own message and voice first, and then use LLMs to assist you if you wish, not to replace you.
 
 ## A few resources to get you started
 
-There are many useful resources on academic writing. I share a few in a previous blog post:
+There are many useful resources on academic writing. I shared a few in a previous blog post:
 
 [Writing a Task Description Paper](https://github.com/nedjmaou/Writing_a_task_description_paper)
 
